@@ -7,8 +7,8 @@ int main() {
 
     printf("Enter an operator (+, -, *, /): ");
     scanf("%c", &operator);
-    printf("Enter two operands and oparator(ex. 10 + 20): ");
-    scanf("%lf %c %lf",&n1, &n2);
+    printf("Enter two operands: ");
+    scanf("%lf %lf",&n1, &n2);
 
     switch(operator)
     {
