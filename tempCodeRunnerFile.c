@@ -1,1 +1,0 @@
-  // Printing values with proper index.
